@@ -1,16 +1,24 @@
 ### Hi there 👋
 
+* 💻 3rd year Computer Engineering student at Istanbul Bilgi University
+* ⚡ Interested in Front-end web development and AI.
+* 😄 As a goal, In 2023 I will make my GitHub profile green :))
+
+<hr>
+<p align="center">
+
+<p align="center">
+  <i style="font-size:20px;>Lets contact!</i>
+<a href= "https://www.linkedin.com/in/emirbaşoğul/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+
+</p>
+
+<p align="center">
+  Mail : emir_bsgl@hotmail.com
+</p>
+
+</p>
+
 <!--
 **Emirbasogul/Emirbasogul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
