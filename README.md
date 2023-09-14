@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-* 💻 3rd year Computer Engineering student at Istanbul Bilgi University
-* ⚡ Interested in Front-end web development and AI.
+* 💻 4th year Computer Engineering student at Istanbul Bilgi University
+* ⚡ Interested in Front-end web development, AI and RPA.
 * 😄 As a goal, In 2023 I will make my GitHub profile green :))
 
 <hr>
